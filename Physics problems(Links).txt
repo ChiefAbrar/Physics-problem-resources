@@ -1,0 +1,45 @@
+Some physics problems:
+International Physics Olympiad (1967-2009): http://ipho.org/problems-and-solutions.html (newer papers on the
+respective sites)
+Asian Physics Olympiad (1999-2014): http://www.apho2014.org/aboutapho/past.html
+2015 : http://apho2015.zju.edu.cn/redir.php?catalog_id=21
+2016 : http://apho2016.ust.hk/Problems_&_Solutions.php
+2017 : http://apho2017.mipt.ru/
+2018 : http://apho2018.vn/experimental-exam.html
+Romanian Masters in Physics : http://rmph.lbi.ro/2017/index.php?id=home
+European Physics Olympiad 2017 : http://eupho.ut.ee/
+European Physics Olympiad 2018 : http://eupho2018.mipt.ru/
+Rudolf Ortvay Competition in Physics : http://ortvay.elte.hu/main.html
+Estonian-Finnish Olympiad in Physics (Now known as Northern Baltic Physics Olympiad) :
+https://www.ioc.ee/~kalda/ipho/E_S.html
+British Physics Olympiad : https://www.physics.ox.ac.uk/olympiad/PastPapers.html
+USA Physics Olympiad : http://aapt.org/physicsteam/2018/exams.cfm
+Swiss Physics Olympiad : http://www.swisspho.ch/en/exams
+Canada Physics Olympiad (first round) : http://outreach.phas.ubc.ca/.../previous-exams-and.../
+Australia Physics Olympiad : https://www.asi.edu.au/.../physics-olympiad-past-exams/
+Moscow City Physics Olympiad (in Russian) : http://olympiads.mccme.ru/mfo/
+MIPT (Fiztekh) Physics Olympiad (in Russian) : http://bio.fizteh.ru/abiturs/z_olimp/
+Saint Petersburg Physics Olympiad (in Russian) : http://physolymp.spb.ru/
+Belarusian Physics Olympiad (in Russian) : http://belpho.org/
+Olimpiadas Iberoamericanas de Fisica (in Spanish) : http://oc.uan.edu.co/oibf/oibf.htm
+Olimpiadas Colombianas (in Spanish) : http://oc.uan.edu.co/ (fixed, has all subjects' Olympiads)
+Olimpiada Brasileira de Fisica (in Portuguese) : http://www.sbf1.sbfisica.org.br/olimpiadas/
+Israeli National Physics Olympiad (in Hebrew) : http://www.ipho.org.il/
+Olimpiadi Italiane di Fisica (in Italian) : http://www.cadnet.marche.it/olifis
+Slovak Physics Olympiad (in Slovak) : http://www.fpv.utc.sk/fo/
+FKS - The Physics Correspondence Seminar (in Slovak) : https://fks.sk/?home
+Serbian Physics Olympiad (in Serbian) : http://www.dfs.org.yu/takmicenja/
+Turkish Olympiads (in Turkish) : http://www.tubitak.gov.tr/home.do?ot=1&sid=542&pid=453
+Estonian Physics Olympiads (in Estonian) : http://efo.fyysika.ee/ulesannete-arhiiv/ (fixed)
+Vlaamse Fysica-Olympiade (in Flemish) : https://www.vonw.be/index.php/olympiade-fysica/vragenbank (fixed)
+Online Physics Brawl : http://physicsbrawl.org/en/
+The University Physics Competition : http://www.uphysicsc.com/
+Princeton University Physics Competition : http://pupc.princeton.edu/
+Boston Area Undergraduate Physics Competition : http://liquids.seas.harvard.edu/oleg/competition/prev.html
+Physics Cup 2018 : https://www.ioc.ee/~kalda/ipho/PhysicsCup2018/
+Physics Cup 2017 : https://www.ioc.ee/~kalda/ipho/PhysicsCup2017/
+Physics Cup 2013 : https://www.ioc.ee/~kalda/ipho/wopho/
+Physics Cup 2012 : http://www.ipho2012.ee/physicscup/
+International Young Physicists' Tournament : http://iypt.org/Home
+International Physicists' Tournament : https://iptnet.info/
+An archive of contests, with some papers : http://fks.sk/~bzduso/competitions.html
